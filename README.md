@@ -218,6 +218,18 @@ So, you never have to worry about CloudTV disappearing one day, compared to some
 
 Stable and secure, thats the most important thing, isnt it??
 
+---
+
+**14. Download CloudTV APP!**
+[app download](https://spread.3y1.xyz/android_app/84/ "app download")
+
+---
+
+**15. contact us **
+[Telegram_1](http://t.me/zcloudtv "Telegram_1")
+[Telegram_2](http://t.me/yemaoz "Telegram_2")
+
+
 # CloudTV(雲電視), 您的家庭媒體中心
 
 CloudTV是一款目前最先進的跨平臺家庭媒體中心應用, 它虛擬化了STB(Set-Top-Box)功能, 可替代常規的有線電視.
@@ -429,3 +441,15 @@ CloudTV已經運營10年了, 算是全球最古老的IPTV/OTT應用了.
 因此, 相比一些您曾使用過的IPTV來說, 您永遠不用擔心CloudTV會在某一天消失不見.
 
 穩定且安全, 這是最重要的, 不是麼??
+
+---
+
+**14. 下載 CloudTV 程式!**
+[app download](https://spread.3y1.xyz/android_app/84/ "app download")
+
+---
+
+**15. 聯係我們 **
+[Telegram_1](http://t.me/zcloudtv "Telegram_1")
+[Telegram_2](http://t.me/yemaoz "Telegram_2")
+
