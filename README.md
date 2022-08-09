@@ -224,13 +224,6 @@ Stable and secure, thats the most important thing, isnt it??
 
 [app download](https://spread.3y1.xyz/android_app/84/ "app download")
 
----
-
-**15. contact us**
-
-[Telegram_1](http://t.me/zcloudtv "Telegram_1")
-
-[Telegram_2](http://t.me/yemaoz "Telegram_2")
 
 
 # CloudTV(雲電視), 您的家庭媒體中心
@@ -450,12 +443,3 @@ CloudTV已經運營10年了, 算是全球最古老的IPTV/OTT應用了.
 **14. 下載 CloudTV 程式!**
 
 [app download](https://spread.3y1.xyz/android_app/84/ "app download")
-
----
-
-**15. 聯係我們**
-
-[Telegram_1](http://t.me/zcloudtv "Telegram_1")
-
-[Telegram_2](http://t.me/yemaoz "Telegram_2")
-
