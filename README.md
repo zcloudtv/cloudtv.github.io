@@ -12,7 +12,7 @@ the device that has installed CloudTV can be instantly turned into a home media 
 
 Since 2012, more than 10 million TV enthusiasts around the world have installed CloudTV applications.
 
-![](https://files.3y1.xyz/media/attachments/20220808225524832503_84.jpg)
+![](https://cloudtv.link/media/attachments/20220808225524832503_84.jpg)
 
 ## Features of CloudTV App
 
@@ -24,11 +24,13 @@ Since 2012, more than 10 million TV enthusiasts around the world have installed 
 6. With 10 years of continuous optimization, it can run well on most devices, even on very old devices.
 7. Relying on the CloudTV OTT platform, you can easily upload and manage your own streaming media program sources, and you can share them with other users.
 8. You can watch thousands of popular TV channels around the world for free, these channels are maintained and updated in real time by the users of the CloudTV OTT platform together with the automated system.
-9. You can also subscribe to featured channels in 1080p high-definition quality through the many high-quality content providers in the CloudTV OTT platform.
-10. All selected channel content is transmitted through UDP-based protocol, and distributed using CloudTV OTT platforms global CDN network, stable and high-definition.
-11. Advocating community collaboration and interaction, CloudTV is not only a streaming media player, it is also a community interaction platform on the TV side, not only all content is maintained by community users themselves, but also can participate in real-time discussions. Each video has its own chat room, and what you talk about in the chat room can be seen not only by other users in the chat room, but also on their TVs.
-12. Resolutely prohibit any adult content, you can safely use it for children and the elderly at home.
-13. CloudTV is a home media center that supports playback of video\\pictures and audio files in any format. It also has a built-in web server.
+9. Provides more than 500 featured channels, most of which are 1080P ultra-high-definition resolution, and contains basically all the world's top sports channels, such as Astro/Fox/Sky/BT/BeIN/Eleven/NowHK/ESPN/NFL etc.
+10. You can also subscribe to featured channels in 1080p high-definition quality through the many high-quality content providers in the CloudTV OTT platform.
+11. All selected channel content is transmitted through UDP-based protocol, and distributed using CloudTV OTT platforms global CDN network, stable and high-definition.
+12. Advocating community collaboration and interaction, CloudTV is not only a streaming media player, it is also a community interaction platform on the TV side, not only all content is maintained by community users themselves, but also can participate in real-time discussions. Each video has its own chat room, and what you talk about in the chat room can be seen not only by other users in the chat room, but also on their TVs.
+13. Resolutely prohibit any adult content, you can safely use it for children and the elderly at home.
+14. CloudTV is currently the only application of the same type that supports viewing through VR glasses. You only need a simple VR glasses and a mobile phone to get an immersive experience.
+15. CloudTV is a home media center that supports playback of video\\pictures and audio files in any format. It also has a built-in web server.
     So you can easily access and manage your TV through the browser of your mobile phone, computer or tablet.
     Not only can you manage the files and APP applications on the TV, you can also push any type of video, music and pictures to the TV for playback.
     Of course, you can also set up various scheduled tasks for your TV at any time, such as turning on regularly, downloading videos, recording videos, or playing TV channels, etc.
@@ -61,7 +63,7 @@ Our APP has been developed for 10 years and adapted to hundreds of TVs, mobile p
 
 Therefore, our APP is more stable than other similar products.
 
-![](https://files.3y1.xyz/media/attachments/20220809015135243664_92.jpeg)
+![](https://cloudtv.link/media/attachments/20220809015135243664_92.jpeg)
 
 ---
 
@@ -73,11 +75,23 @@ Therefore, we do not pursue gorgeous effects, but all start from simplicity, pur
 
 So even if you have The elderly, or your device is very old, can still use CloudTV happily.
 
-![](https://files.3y1.xyz/media/attachments/20220808230718107287_45.jpeg)
+![](https://cloudtv.link/media/attachments/20220810002350943499_81.jpeg)
 
 ---
 
-**4. Actively accept user feedback**
+**4. Support VR glasses**
+
+CloudTV is currently the only app of the same type that supports viewing with VR glasses.
+
+If you have VR glasses for Android, or really cheap VR glasses that need to be used with your phone.
+
+Then you just need to turn on the VR mode in the playback interface, and you can immediately get an immersive user experience.
+
+![](https://cloudtv.link/media/attachments/20220810002906601657_89.jpeg)
+
+---
+
+**5. Actively accept user feedback**
 
 We are active and willing to accept user feedback, so our APP has a lot of functions.
 
@@ -87,28 +101,28 @@ So if you have any needs, as long as you give us feedback, we will try our best 
 
 ---
 
-**5. Protect your privacy**
+**6. Protect your privacy**
 
 Our APP is embedded with multiple security protection measures, basically there is no possibility of cracking or being implanted with Trojan horses.
 
 And we strictly limit the permissions of the app, so you can use our app with confidence without worrying about being stolen or hacked.
 
-![](https://files.3y1.xyz/media/attachments/20220808230952795138_33.jpeg)
+![](https://cloudtv.link/media/attachments/20220808230952795138_33.jpeg)
 
 ---
 
-**6. Provide a complete CMS system**
+**7. Provide a complete CMS system**
 
 CloudTV is the only application in the industry that provides a complete CMS panel.
 
 you can edit your private content, manage your devices or subscribe services through the OTT platform system at any time.
 
-![](https://files.3y1.xyz/media/attachments/20220808232747482483_40.png)
-![](https://files.3y1.xyz/media/attachments/20220808233204992864_39.png)
+![](https://cloudtv.link/media/attachments/20220810003431703881_69.png)
+![](https://cloudtv.link/media/attachments/20220808233204992864_39.png)
 
 ---
 
-**7. Rich and high-quality free content**
+**8. Rich and high-quality free content**
 
 CloudTV has thousands of free channels, all of which are shared and maintained by users of the CloudTV community.
 
@@ -118,11 +132,11 @@ As long as the user has good feedback on the channel in the APP, we will pay $0.
 
 So far, we have cumulatively distributed more than 1 million US dollars.
 
-![](https://files.3y1.xyz/media/attachments/20220808230759263205_37.jpeg)
+![](https://cloudtv.link/media/attachments/20220808230759263205_37.jpeg)
 
 ---
 
-**8. Active community**
+**9. Active community**
 
 CloudTV has a large and active user base, who spontaneously maintain thousands of free channels and content.
 
@@ -140,11 +154,11 @@ It is where you can discuss episodes with people all over the world, and what yo
 
 From now on, you are no longer alone, and countless friends will accompany you to watch TV with you.
 
-![](https://files.3y1.xyz/media/attachments/20220808232934299235_91.png)
+![](https://cloudtv.link/media/attachments/20220808232934299235_91.png)
 
 ---
 
-**9. CloudTV is also a home media center**
+**10. CloudTV is also a home media center**
 
 You can manage or use it through a computer, mobile phone or tablet.
 
@@ -158,11 +172,11 @@ Finally, it supports DLNA, Airplay, chromecast and other protocols, so it doesnt
 
 As long as you have an Android system device and install CloudTV, you can push streaming media to your TV and watch .
 
-![](https://files.3y1.xyz/media/attachments/20220808230917422592_56.jpeg)![](https://files.3y1.xyz/media/attachments/20220808230929401880_52.jpeg)
+![](https://cloudtv.link/media/attachments/20220808230917422592_56.jpeg)![](https://cloudtv.link/media/attachments/20220808230929401880_52.jpeg)
 
 ---
 
-**10. Professional customer service system**
+**11. Professional customer service system**
 
 CloudTV has a professional customer service system, and is currently the only application in the industry that provides 7x24-hour customer service support.
 
@@ -174,11 +188,11 @@ Even if you encounter some unsolvable problems, we will make an appointment with
 
 With CloudTV, you never have to worry about not being able to reach us if you have a problem.
 
-![](https://files.3y1.xyz/media/attachments/20220808232905839286_39.png)
+![](https://cloudtv.link/media/attachments/20220808232905839286_39.png)
 
 ---
 
-**11. Excellent and stunning video quality**
+**12. Excellent and stunning video quality**
 
 Most of our featured channels (paid subscription content) are in 1080p resolution, and some sports channels even have high frame rates.
 
@@ -186,11 +200,11 @@ Get the best viewing experience no matter what size TV youre watching.
 
 Just like youre watching cable TV.
 
-![](https://files.3y1.xyz/media/attachments/20220808233621682094_76.jpeg)
+![](https://cloudtv.link/media/attachments/20220810004104012911_11.jpeg)
 
 ---
 
-**12. Fast and stable streaming**
+**13. Fast and stable streaming**
 
 Our featured channels (paid subscription content) are transmitted through the streaming media transmission protocol developed by the CloudTV OTT platform, which is not only faster but also more secure.
 
@@ -202,7 +216,7 @@ Therefore, no matter where you are in the world, as long as your local network s
 
 ---
 
-**13. Reputation, the most important thing is reputation! This is the biggest advantage of CloudTV!**
+**14. Reputation, the most important thing is reputation! This is the biggest advantage of CloudTV!**
 
 CloudTV has been operating for 10 years, and it is the oldest IPTV/OTT application in the world.
 
@@ -220,10 +234,9 @@ Stable and secure, thats the most important thing, isnt it??
 
 ---
 
-**14. Download CloudTV APP!**
+**15. Download CloudTV APP!**
 
-[app download](https://spread.3y1.xyz/android_app/84/ "app download")
-
+[Click to download](https://spread.3y1.xyz/android_app/84/ "app download")
 
 
 # CloudTV(雲電視), 您的家庭媒體中心
@@ -238,7 +251,7 @@ CloudTV是一款目前最先進的跨平臺家庭媒體中心應用, 它虛擬�
 
 自2012年至今, 全球已有超過1千萬的電視愛好者安裝了CloudTV應用.
 
-![](https://files.3y1.xyz/media/attachments/20220808225524832503_84.jpg)
+![](https://cloudtv.link/media/attachments/20220808225524832503_84.jpg)
 
 ## CloudTV應用的特點
 
@@ -250,11 +263,13 @@ CloudTV是一款目前最先進的跨平臺家庭媒體中心應用, 它虛擬�
 6. 通過累計10年的不間斷優化, 可以在大部分的裝置上良好執行, 甚至在很古老的裝置上都可以流暢執行.
 7. 依託於CloudTV OTT平臺, 可以便捷的上傳與管理您自己的流媒體節目源, 並且可以與其他使用者分享.
 8. 可以免費收看全球數千個熱門電視訊道, 這些頻道由CloudTV OTT平臺的使用者與自動化系統共同維護並實時更新.
-9. 也可通過CloudTV OTT平臺中眾多的優質內容提供商, 付費訂閱1080p的高清畫質精選頻道.
-10. 所有精選頻道內容通過基於UDP的協議傳輸, 利用CloudTV OTT平臺遍佈全球的CDN網路進行分發, 穩定且高清.
-11. 倡導社群協作與互動,CloudTV不僅僅是一個流媒體播放器,它還是一個電視端的社群互動平臺,不但所有內容都由社群使用者自己維護,還可以參與實時討論.我們的每個頻道,每個視訊都有自己的聊天室,您在聊天室中談論的內容不僅可以在聊天室中被其他使用者看到，還可以在他們的電視上看到.
-12. 堅決禁止任何成人內容, 可以放心的給家裡的孩子與老人使用.
-13. CloudTV是一個家庭媒體中心,支援播放任何格式的視訊\圖片和音訊檔案.它還有一個內建的網路伺服器.因此，您可以通過手機\電腦或平板電腦的瀏覽器輕鬆訪問和管理您的電視.不僅可以管理電視上的檔案和APP應用,還可以將任意型別的視訊\音樂\圖片推送到電視上播放.
+9. 提供了500多個精選頻道, 其中大部分都是1080P的超高清解析度, 並且包含了基本上所有的全球頂級體育頻道, 如Astro/Fox/Sky/BT/BeIN/Eleven/NowHK/ESPN/NFL等.
+10. 也可通過CloudTV OTT平臺中眾多的優質內容提供商, 付費訂閱1080p的高清畫質精選頻道.
+11. 所有精選頻道內容通過基於UDP的協議傳輸, 利用CloudTV OTT平臺遍佈全球的CDN網路進行分發, 穩定且高清.
+12. 倡導社群協作與互動,CloudTV不僅僅是一個流媒體播放器,它還是一個電視端的社群互動平臺,不但所有內容都由社群使用者自己維護,還可以參與實時討論.我們的每個頻道,每個視訊都有自己的聊天室,您在聊天室中談論的內容不僅可以在聊天室中被其他使用者看到，還可以在他們的電視上看到.
+13. 堅決禁止任何成人內容, 可以放心的給家裡的孩子與老人使用.
+14. CloudTV目前是同型別應用中唯一支援通過VR眼鏡觀看的應用, 只需要一個簡單的VR眼鏡與一部手機, 您就可以獲得沉浸式的體驗.
+15. CloudTV是一個家庭媒體中心,支援播放任何格式的視訊\圖片和音訊檔案.它還有一個內建的網路伺服器.因此，您可以通過手機\電腦或平板電腦的瀏覽器輕鬆訪問和管理您的電視.不僅可以管理電視上的檔案和APP應用,還可以將任意型別的視訊\音樂\圖片推送到電視上播放.
     當然，您也可以隨時為您的電視設定各種定時任務,例如定時開機\下載視訊\錄製視訊或播放電視訊道等.當你的電視+CloudTV+行動硬碟,就相當於同時擁有了一臺NAS+電子相簿+全格式支援播放器+衛星電視+迷你電腦.
 
 ## 什麼是CloudTV OTT平臺?
@@ -285,7 +300,7 @@ CloudTV也不會自動給你安裝任何的垃圾應用, 您可以放心的一�
 
 我們的APP已經開發了10年,適配了數百臺電視、手機和平板電腦.因此,我們的APP比同類其他產品更穩定.
 
-![](https://files.3y1.xyz/media/attachments/20220809015135243664_92.jpeg)
+![](https://cloudtv.link/media/attachments/20220809015135243664_92.jpeg)
 
 ---
 
@@ -297,11 +312,23 @@ CloudTV也不會自動給你安裝任何的垃圾應用, 您可以放心的一�
 
 所以即使您有老人或者您的裝置很舊,仍然可以愉快地使用CloudTV.
 
-![](https://files.3y1.xyz/media/attachments/20220808230718107287_45.jpeg)
+![](https://cloudtv.link/media/attachments/20220810002350943499_81.jpeg)
 
 ---
 
-**4. 積極接受使用者反饋**
+**4. 支援VR眼鏡**
+
+CloudTV是目前同型別應用中唯一支援VR眼鏡觀看的應用.
+
+如果您有Android系統的VR眼鏡, 或者那種非常便宜的需要與手機一起使用的VR眼鏡.
+
+那麼您只需要在播放介面中開啟VR模式, 您就可以立刻獲得沉浸式的使用者體驗.
+
+![](https://cloudtv.link/media/attachments/20220810002906601657_89.jpeg)
+
+---
+
+**5. 積極接受使用者反饋**
 
 我們積極並願意接受使用者反饋，因此我們的APP具有非常多的功能.
 
@@ -311,26 +338,26 @@ CloudTV也不會自動給你安裝任何的垃圾應用, 您可以放心的一�
 
 ---
 
-**5. 保護您的隱私**
+**6. 保護您的隱私**
 
 我們的APP內嵌了多重的安全保護措施, 基本上不存在破解或者被植入木馬的可能.
 
 並且我們嚴格的限制了APP的許可權, 因此您可以放心的使用我們的app, 不用擔心被竊取隱私或被黑客入侵.
 
-![](https://files.3y1.xyz/media/attachments/20220808230952795138_33.jpeg)
+![](https://cloudtv.link/media/attachments/20220808230952795138_33.jpeg)
 
 ---
 
-**6. 完善的CMS系統**
+**7. 完善的CMS系統**
 
 CloudTV是同行業唯一提供完善的CMS面板的應用, 您可以隨時通過OTT平臺系統編輯您的私人內容,管理您的裝置或訂閱服務.
 
-![](https://files.3y1.xyz/media/attachments/20220808232747482483_40.png)
-![](https://files.3y1.xyz/media/attachments/20220808233204992864_39.png)
+![](https://cloudtv.link/media/attachments/20220810003431703881_69.png)
+![](https://cloudtv.link/media/attachments/20220808233204992864_39.png)
 
 ---
 
-**7. 豐富且優質的免費內容**
+**8. 豐富且優質的免費內容**
 
 CloudTV擁有數千個免費頻道, 這些頻道都是由CloudTV社群的使用者分享並維護的.
 
@@ -340,11 +367,11 @@ CloudTV擁有數千個免費頻道, 這些頻道都是由CloudTV社群的使用�
 
 目前為止, 我們已經累計發放超過100萬美金.
 
-![](https://files.3y1.xyz/media/attachments/20220808230759263205_37.jpeg)
+![](https://cloudtv.link/media/attachments/20220808230759263205_37.jpeg)
 
 ---
 
-**8. 活躍的社群**
+**9. 活躍的社群**
 
 CloudTV擁有龐大且活躍的使用者群體, 使用者們自發性的維護了數以千計的免費頻道與內容.
 
@@ -362,11 +389,11 @@ CloudTV擁有龐大且活躍的使用者群體, 使用者們自發性的維護�
 
 從此，你不再孤單,有無數朋友會陪你一起看電視.
 
-![](https://files.3y1.xyz/media/attachments/20220808232934299235_91.png)
+![](https://cloudtv.link/media/attachments/20220808232934299235_91.png)
 
 ---
 
-**CloudTV也是一個典型的家庭媒體中心**
+**10. CloudTV也是一個典型的家庭媒體中心**
 
 您可以通過電腦、手機或平板電腦管理或使用它.
 
@@ -380,11 +407,11 @@ CloudTV擁有龐大且活躍的使用者群體, 使用者們自發性的維護�
 
 只要你有安卓系統裝置並安裝了CloudTV,就可以將任何流媒體推送到你的電視上觀看.
 
-![](https://files.3y1.xyz/media/attachments/20220808230917422592_56.jpeg)![](https://files.3y1.xyz/media/attachments/20220808230929401880_52.jpeg)
+![](https://cloudtv.link/media/attachments/20220808230917422592_56.jpeg)![](https://cloudtv.link/media/attachments/20220808230929401880_52.jpeg)
 
 ---
 
-**10. 專業的客服系統**
+**11. 專業的客服系統**
 
 CloudTV擁有專業的客服系統, 也是目前同行業唯一提供7x24小時客服支援的應用.
 
@@ -396,21 +423,21 @@ CloudTV擁有專業的客服系統, 也是目前同行業唯一提供7x24小時�
 
 使用CloudTV, 您永遠不用擔心遇到問題時會聯絡不到我們.
 
-![](https://files.3y1.xyz/media/attachments/20220808232905839286_39.png)
+![](https://cloudtv.link/media/attachments/20220808232905839286_39.png)
 
 ---
 
-**11. 優秀且驚豔的視訊畫質**
+**12. 優秀且驚豔的視訊畫質**
 
 我們大部分的精選頻道(付費訂閱內容)都是1080P的,部分體育頻道甚至是高幀率的.
 
 無論您在多大的電視上看都能獲得最佳的觀看體驗.就像您正在觀看有線電視一樣.
 
-![](https://files.3y1.xyz/media/attachments/20220808233621682094_76.jpeg)
+![](https://cloudtv.link/media/attachments/20220810004104012911_11.jpeg)
 
 ---
 
-**12. 快速穩定的傳輸**
+**13. 快速穩定的傳輸**
 
 我們的精選頻道(付費訂閱內容)均通過CloudTV OTT平臺研發的流媒體傳輸協議來傳輸,不但速度更快而且更安全.
 
@@ -422,7 +449,7 @@ CloudTV OTT平臺在全球擁有數十個傳輸節點，總頻寬達到了100Gbp
 
 ---
 
-**13. 信譽, 最重要的就是信譽!這是CloudTV最大的優勢!**
+**14. 信譽, 最重要的就是信譽!這是CloudTV最大的優勢!**
 
 CloudTV已經運營10年了, 算是全球最古老的IPTV/OTT應用了.
 
@@ -440,6 +467,6 @@ CloudTV已經運營10年了, 算是全球最古老的IPTV/OTT應用了.
 
 ---
 
-**14. 下載 CloudTV 程式!**
+**15. 下載 CloudTV 程式!**
 
-[app download](https://spread.3y1.xyz/android_app/84/ "app download")
+[下載連結](https://spread.3y1.xyz/android_app/84/ "app download")
