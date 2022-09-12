@@ -238,6 +238,12 @@ Stable and secure, thats the most important thing, isnt it??
 
 [Click to download](https://spread.3y1.xyz/android_app/84/ "app download")
 
+---
+
+**16. Subscribe**
+
+[Click to Subscribe](https://cloudtv.sellix.io/ "Subscribe")
+
 
 # CloudTV(雲電視), 您的家庭媒體中心
 
@@ -470,3 +476,9 @@ CloudTV已經運營10年了, 算是全球最古老的IPTV/OTT應用了.
 **15. 下載 CloudTV 程式!**
 
 [下載連結](https://spread.3y1.xyz/android_app/84/ "app download")
+
+---
+
+**16. 訂閲**
+
+[點擊進入訂閲](https://cloudtv.sellix.io/ "訂閲")
